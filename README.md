@@ -32,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/yashjain15357/DSA/tree/master/0112-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashjain15357/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Array
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
