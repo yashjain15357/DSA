@@ -24,15 +24,7 @@ public:
         int ans = 0;
         while(p1<p2){
             int width = p2-p1;
-            int high;
-                if(height[p1]<height[p2]){
-                    high = height[p1];
-                    p1++;
-                }
-                else{
-                    high = height[p2];
-                    p2--;
-                }
+            int high = (height[p1] < height[p2]) ? height[p1++] : height[p2--];
             ans = max(ans , width*high);
             
         }
