@@ -1,29 +1,49 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        vector<vector<int>> zero_position;
-        int col = matrix[0].size();
-        int row = matrix.size();
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+        
+        bool firstRowZero = false;
+        bool firstColZero = false;
 
-        for(int i = 0 ; i<row; i++){
-            for(int j = 0 ; j<col ; j++){
-                if(matrix[i][j]==0){
-                    zero_position.push_back({i ,j});
+        // Check if first column has any zeros
+        for (int i = 0; i < rows; i++) {
+            if (matrix[i][0] == 0) firstColZero = true;
+        }
+
+        // Check if first row has any zeros
+        for (int j = 0; j < cols; j++) {
+            if (matrix[0][j] == 0) firstRowZero = true;
+        }
+
+        // Use first row and column as markers
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < cols; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
-        for(auto p : zero_position){
-            int r = p[0];
-            int c = p[1];
-            for(int i = 0 ; i<col ; i++){
-                matrix[r][i] =0;
-            }
-            for(int i = 0 ; i<row ; i++){
-                matrix[i][c] =0;
-            }
 
+        // Update inner matrix based on markers
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < cols; j++) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
+                }
+            }
         }
-        
-        
+
+        // Zero out first row if needed
+        if (firstRowZero) {
+            for (int j = 0; j < cols; j++) matrix[0][j] = 0;
+        }
+
+        // Zero out first column if needed
+        if (firstColZero) {
+            for (int i = 0; i < rows; i++) matrix[i][0] = 0;
+        }
     }
 };
