@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/yashjain15357/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yashjain15357/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashjain15357/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yashjain15357/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yashjain15357/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashjain15357/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashjain15357/DSA/tree/master/0136-single-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashjain15357/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -100,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashjain15357/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashjain15357/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
