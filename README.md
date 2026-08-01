@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashjain15357/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashjain15357/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashjain15357/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashjain15357/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yashjain15357/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yashjain15357/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashjain15357/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashjain15357/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yashjain15357/DSA/tree/master/0152-maximum-product-subarray) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashjain15357/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashjain15357/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashjain15357/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashjain15357/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/yashjain15357/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yashjain15357/DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
