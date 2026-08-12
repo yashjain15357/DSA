@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashjain15357/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashjain15357/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashjain15357/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/yashjain15357/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yashjain15357/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashjain15357/DSA/tree/master/0053-maximum-subarray) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yashjain15357/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
