@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashjain15357/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashjain15357/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/yashjain15357/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/yashjain15357/DSA/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashjain15357/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yashjain15357/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/yashjain15357/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yashjain15357/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yashjain15357/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/yashjain15357/DSA/tree/master/0443-string-compression) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yashjain15357/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yashjain15357/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/yashjain15357/DSA/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
 | ------- |
