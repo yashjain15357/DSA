@@ -18,7 +18,7 @@ bool checkPlaindrom(string s){
             return;
         }
         string temp = "";
-        for(int i = indx ; i<s.size() ; ++i){
+        for(int i = indx ; i<s.size() ; i++){
             temp+=s[i];
             if(checkPlaindrom(temp)){
                 curr.push_back(temp);
