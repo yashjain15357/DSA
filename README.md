@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yashjain15357/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashjain15357/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashjain15357/DSA/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashjain15357/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/yashjain15357/DSA/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashjain15357/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashjain15357/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/yashjain15357/DSA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yashjain15357/DSA/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -212,4 +216,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashjain15357/DSA/tree/master/0225-implement-stack-using-queues) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
