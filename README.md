@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/yashjain15357/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashjain15357/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/yashjain15357/DSA/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashjain15357/DSA/tree/master/0037-sudoku-solver) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashjain15357/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
