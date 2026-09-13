@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/yashjain15357/DSA/tree/master/0112-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashjain15357/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/yashjain15357/DSA/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashjain15357/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashjain15357/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/yashjain15357/DSA/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/yashjain15357/DSA/tree/master/0994-rotting-oranges) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashjain15357/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yashjain15357/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/yashjain15357/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yashjain15357/DSA/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/yashjain15357/DSA/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashjain15357/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
