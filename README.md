@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashjain15357/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashjain15357/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/yashjain15357/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yashjain15357/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/yashjain15357/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/yashjain15357/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yashjain15357/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/yashjain15357/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/yashjain15357/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/yashjain15357/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Algorithm X
