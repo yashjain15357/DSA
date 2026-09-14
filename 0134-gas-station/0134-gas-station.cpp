@@ -10,19 +10,19 @@ public:
 
         int tank_val = 0;
         vector<int>ans;
+        int index = -1;
+        int m = INT_MAX;
+        
         for(int i = 0  ; i<gas.size() ; i++){
-            ans.push_back(tank_val);
+            
+            if(m>tank_val){
+                m = tank_val;
+                index = i;
+            }
             cout<<tank_val;
             tank_val = (tank_val+gas[i])-cost[i];
         }
-        int m = INT_MAX;
-        int index = -1;
-        for(int i = 0 ; i<ans.size() ; i++){
-            if(m>ans[i]){
-                m = ans[i];
-                index = i;
-            }
-        }
+        
         return index;
 
         
