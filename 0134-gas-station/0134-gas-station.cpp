@@ -19,7 +19,7 @@ public:
                 m = tank_val;
                 index = i;
             }
-            cout<<tank_val;
+            
             tank_val = (tank_val+gas[i])-cost[i];
         }
         
