@@ -9,7 +9,7 @@ public:
 
 
         int tank_val = 0;
-        vector<int>ans;
+        
         int index = -1;
         int m = INT_MAX;
         
