@@ -16,17 +16,17 @@ public:
         //     span++;
         // }
         // return span;
-        if(st.empty()){
-            st.push({price , 1});
-            return 1;
-        }
         int span = 1;
-        while(!st.empty() && st.top().first <= price ){
-            span = span + st.top().second;
+        
+        // Check !st.empty() FIRST to avoid calling top() on an empty stack
+        while (!st.empty() && st.top().first <= price) {
+            span += st.top().second;
             st.pop();
         }
-        st.push({price , span});
+        
+        st.push({price, span});
         return span;
+        
 
 
         
