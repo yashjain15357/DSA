@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/yashjain15357/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/yashjain15357/DSA/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0901-online-stock-span](https://github.com/yashjain15357/DSA/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashjain15357/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yashjain15357/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/yashjain15357/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/yashjain15357/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yashjain15357/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/yashjain15357/DSA/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashjain15357/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yashjain15357/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
