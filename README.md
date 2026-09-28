@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashjain15357/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yashjain15357/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/yashjain15357/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yashjain15357/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/yashjain15357/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -39,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yashjain15357/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashjain15357/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yashjain15357/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/yashjain15357/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/yashjain15357/DSA/tree/master/0112-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashjain15357/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/yashjain15357/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/yashjain15357/DSA/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashjain15357/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/yashjain15357/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
