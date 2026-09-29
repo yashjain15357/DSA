@@ -1,28 +1,29 @@
 class Solution {
 public:
-    int maxDiameter = 0;
-
-    // This function returns the height of the tree
-    int calculateHeight(TreeNode* root) {
-        if (root == nullptr) {
-            return 0;
-        }
-
-        // Recursively find the height of left and right subtrees
-        int leftHeight = calculateHeight(root->left);
-        int rightHeight = calculateHeight(root->right);
-
-        // The diameter at the current node is leftHeight + rightHeight
-        // Update the maximum diameter found so far
-        maxDiameter = max(maxDiameter, leftHeight + rightHeight);
-
-        // Return the height of the current subtree to the parent node
-        return 1 + max(leftHeight, rightHeight);
+int max_dia = 0;
+int fun_tree_height(TreeNode* root){
+    if(root == NULL){
+        return 0;
     }
+    int left = fun_tree_height(root->left);
+    int right = fun_tree_height(root->right);
+
+    max_dia = max(max_dia , left+right);
+    int ans = max(left , right)+1;
+    return ans;
+
+
+
+}
+    
 
     int diameterOfBinaryTree(TreeNode* root) {
-        maxDiameter = 0; // Reset for each test case
-        calculateHeight(root);
-        return maxDiameter;
+        if(root == NULL){
+            return 0;
+        }
+        fun_tree_height(root);
+        
+        return max_dia;
+       
     }
 };
