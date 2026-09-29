@@ -302,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yashjain15357/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/yashjain15357/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yashjain15357/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
