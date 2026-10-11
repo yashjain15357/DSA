@@ -11,19 +11,36 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == NULL){
-            return NULL;
+
+        // Recursive approach;
+        // if(root == NULL){
+        //     return NULL;
+        // }
+        // if(root->val > p->val && root->val > q->val){
+        //     root = lowestCommonAncestor(root->left , p , q);
+        // }
+        // else if(root->val < p->val && root->val < q->val){
+        //     root = lowestCommonAncestor(root->right , p , q);
+        // }
+        // else if((root->val >= q->val && root->val <= p->val) || (root->val <= q->val && root->val >= p->val)){
+        //     return root;
+        // }
+        // return root;
+
+        // loop approach
+
+        while(root!=NULL){
+            if(root->val > p->val && root->val > q->val){
+                root = lowestCommonAncestor(root->left , p , q);
+            }
+            else if(root->val < p->val && root->val < q->val){
+                root = lowestCommonAncestor(root->right , p , q);
+            }
+            else if((root->val >= q->val && root->val <= p->val) || (root->val <= q->val && root->val >= p->val)){
+                return root;
+            }
         }
-        if(root->val > p->val && root->val > q->val){
-            root = lowestCommonAncestor(root->left , p , q);
-        }
-        else if(root->val < p->val && root->val < q->val){
-            root = lowestCommonAncestor(root->right , p , q);
-        }
-        else if((root->val >= q->val && root->val <= p->val) || (root->val <= q->val && root->val >= p->val)){
-            return root;
-        }
-        return root;
+        return NULL;
         
     }
 };
