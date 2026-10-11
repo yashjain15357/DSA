@@ -31,10 +31,10 @@ public:
 
         while(root!=NULL){
             if(root->val > p->val && root->val > q->val){
-                root = lowestCommonAncestor(root->left , p , q);
+                root = root->left;
             }
             else if(root->val < p->val && root->val < q->val){
-                root = lowestCommonAncestor(root->right , p , q);
+                root =  root->right;
             }
             else if((root->val >= q->val && root->val <= p->val) || (root->val <= q->val && root->val >= p->val)){
                 return root;
